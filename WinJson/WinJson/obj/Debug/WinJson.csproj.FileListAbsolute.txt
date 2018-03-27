@@ -1,0 +1,12 @@
+c:\users\и\source\repos\WinJson\WinJson\obj\Debug\WinJson.csprojResolveAssemblyReference.cache
+c:\users\и\source\repos\WinJson\WinJson\obj\Debug\WinJson.Form1.resources
+c:\users\и\source\repos\WinJson\WinJson\obj\Debug\WinJson.Properties.Resources.resources
+c:\users\и\source\repos\WinJson\WinJson\obj\Debug\WinJson.csproj.GenerateResource.Cache
+c:\users\и\source\repos\WinJson\WinJson\obj\Debug\WinJson.csproj.CoreCompileInputs.cache
+c:\users\и\source\repos\WinJson\WinJson\bin\Debug\WinJson.exe.config
+c:\users\и\source\repos\WinJson\WinJson\bin\Debug\WinJson.exe
+c:\users\и\source\repos\WinJson\WinJson\bin\Debug\WinJson.pdb
+c:\users\и\source\repos\WinJson\WinJson\bin\Debug\Newtonsoft.Json.dll
+c:\users\и\source\repos\WinJson\WinJson\bin\Debug\Newtonsoft.Json.xml
+c:\users\и\source\repos\WinJson\WinJson\obj\Debug\WinJson.exe
+c:\users\и\source\repos\WinJson\WinJson\obj\Debug\WinJson.pdb
