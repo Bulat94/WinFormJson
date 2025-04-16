@@ -97,7 +97,6 @@
     >     "ConnectionStrings": {
     >         "Default": "Host=DB_CONTAINER_NAME;Port=DB_PORT;Database=DB_NAME;Username=DB_USER;Password=DB_PSWD"
     >     },
-    >     ...
     > }
     > ```
 
